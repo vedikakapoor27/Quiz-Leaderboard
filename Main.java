@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class Main{
+public class Main {
 
     static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
     static final String REG_NO = "RA2311050010025"; // <-- Put your reg number here
